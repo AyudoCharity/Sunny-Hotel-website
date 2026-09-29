@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background:maroon;
+  align-items: center;
+  justify-content: center;
+  background-position: center;
+
+
+  img{
+    width: 30%;
+    margin: 15px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+  }
+
+  vedio{
+    width: 30%;
+  }
+  
+}
+nav,{
+    background-color
+}
+footer{
+    background-color: beige;
+    padding: 20px;
+    
+}
+
+nav {
+    text-align: right;
+}
+nav a {
+    background: black;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin:0px 10px;
+    
+    
+}
+footer{
+    text-align: center;
+}
+
+.text{
+    width: 80%;
+    text-align: center;
+}
+
+h1 {
+    padding-bottom: 10px;
+}
+
+.vid{
+    margin-bottom: 50px;
+}
+
+video{
+    border-radius: 20px;
+}
+
+body{
+    background-color: brown;
+}
+
+.text{
+    text-align: center;
+
+}
+section{
+    justify-content: center;
+}
+
+body{
+    background-color: brown;
+}
+
+.Restaurant{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-position: center;
+}
